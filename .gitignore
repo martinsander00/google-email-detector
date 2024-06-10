@@ -1,0 +1,11 @@
+# Ignore the target directory
+/target
+
+# Ignore Cargo.lock file for libraries
+# Cargo.lock
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
